@@ -1,1 +1,1 @@
-# uswds-template-landingpage
+# uswds-template-eventpage
