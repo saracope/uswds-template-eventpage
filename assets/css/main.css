@@ -1,0 +1,20 @@
+.rsvp-bar {
+    background: #F8F8FA;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+}
+
+.rsvp--block {
+    display: block;
+    position: relative;
+    padding: 40px 20px;
+    padding-left: 70px;
+}
+
+.material-icons {
+    position: relative;
+    top: -.1em;
+    vertical-align: middle;
+    padding-right: .25em;
+}
