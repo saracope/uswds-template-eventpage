@@ -24,3 +24,7 @@
    vertical-align: middle;
    padding-right: .25em;
 }
+
+table {
+    min-width: 80%;
+  }
